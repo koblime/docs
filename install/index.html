@@ -6,7 +6,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.712017250149">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.725602146441">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -34,11 +34,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../assets/favicon.ico" rel="icon" />
-    <link href="../resources/css/retype.css?v=2.4.0.712017250149" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.4.0.725602146441" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.712017250149" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.725602146441" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.712017250149" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.725602146441" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -202,7 +202,7 @@
         <span>Sync Application</span>
     </h3>
 </doc-anchor-target>
-<p>The Sync application is located at <code v-pre>/opt/bin/koblime</code>. This application is run each time your device sync.</p>
+<p>The Sync application is located at <code v-pre>/opt/bin/koblime</code>. This application is run each time your device syncs.</p>
 <doc-anchor-target id="nickelmenu-item">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#nickelmenu-item">#</doc-anchor-trigger>
@@ -220,6 +220,13 @@
     </h3>
 </doc-anchor-target>
 <p>Koblime uses <a href="https://opensource.com/article/18/11/udev">Udev</a> to detect a WiFi connection. The Koblime Usev rule is located at <code v-pre>/etc/udev/rules.d/97-koblime.rules</code>. This Udev rule runs the Sync Application each time WiFi is detected.</p>
+<doc-anchor-target id="nickledbus">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#nickledbus">#</doc-anchor-trigger>
+        <span>NickleDBus</span>
+    </h3>
+</doc-anchor-target>
+<p>Koblime uses <a href="https://github.com/shermp/NickelDBus">NickelDBus</a> in order to render screens and to get the Kobo to refresh the book library. The latest version of NickelDBus is installed with every Koblime install.</p>
 
                                 
                                 <!-- Required only on API pages -->
