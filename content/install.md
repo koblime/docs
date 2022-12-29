@@ -17,7 +17,7 @@ The configuration file is located at `/mnt/onboard/.add/koblime/config.yaml` and
 
 ### Sync Application
 
-The Sync application is located at `/opt/bin/koblime`. This application is run each time your device sync.
+The Sync application is located at `/opt/bin/koblime`. This application is run each time your device syncs.
 
 ### NickelMenu Item
 
@@ -28,3 +28,7 @@ If you happen to have NickleMenu installed, we add a Koblime menu item to initia
 ### Udev Rule
 
 Koblime uses [Udev](https://opensource.com/article/18/11/udev) to detect a WiFi connection. The Koblime Usev rule is located at `/etc/udev/rules.d/97-koblime.rules`. This Udev rule runs the Sync Application each time WiFi is detected.
+
+### NickleDBus
+
+Koblime uses [NickelDBus](https://github.com/shermp/NickelDBus) in order to render screens and to get the Kobo to refresh the book library. The latest version of NickelDBus is installed with every Koblime install.

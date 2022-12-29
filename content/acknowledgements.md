@@ -10,5 +10,7 @@ Koblime would not be possible without the following resources thanks to the amaz
 * [MobileReader's](https://www.mobileread.com/forums/forumdisplay.php?f=223) Kobo Forums and Members
 * [Reddit's](https://www.reddit.com/r/kobo) Kobo Forums and Members
 * The [FeathersJS](https://feathersjs.com/) framework
+* [Patrick Gaskin](https://pgaskin.net/kepubify/) for Kepubify and NickelMenu
+* [Sherman Perry](https://shermp.github.io/NickelDBus/) for NickelDBus
 
 And of course to the folks at [Kobo](https://www.kobo.com/) for making such awesome devices.

@@ -16,3 +16,5 @@ rm -rf /mnt/onboard/.add/koblime
 rm -rf /opt/bin/koblime
 reboot
 ```
+
+You will have to follow the [NickleDBus](https://github.com/shermp/NickelDBus#uninstalling) uninstall instructions to remove it.
