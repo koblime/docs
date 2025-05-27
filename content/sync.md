@@ -1,7 +1,7 @@
 ---
 title: Sync
 icon: sync
-order: 200
+order: 500
 ---
 
 Koblime performs a wirelesses sync of your Kobo database to https://kobli.me each time your device connects to WiFi.

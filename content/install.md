@@ -1,6 +1,6 @@
 ---
 icon: download
-order: 200
+order: 600
 ---
 
 You can install Koblime from your device by going to the [Devices](https://kobli.me/devices) tab and clicking the install button.

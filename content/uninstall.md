@@ -1,6 +1,6 @@
 ---
-icon: repo-deleted
-order: 100
+icon: x
+order: 300
 ---
 
 You can uninstall Koblime from your device by going to the [Devices](https://kobli.me/devices) tab and checking the `Uninstall on sync` checkbox. This will uninstall Koblime the next time the device attempts to sync.
