@@ -1,0 +1,108 @@
+{
+  "version": "4.6.0",
+  "created": "2026-06-03T17:40:14Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "acknowledgements.md"
+    },
+    {
+      "path": "acknowledgements/index.html"
+    },
+    {
+      "path": "assets/favicon.ico"
+    },
+    {
+      "path": "assets/logo.png"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "faq.md"
+    },
+    {
+      "path": "faq/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "install.md"
+    },
+    {
+      "path": "install/index.html"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "readme.md"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/instagram.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml"
+    },
+    {
+      "path": "sync.md"
+    },
+    {
+      "path": "sync/index.html"
+    },
+    {
+      "path": "uninstall.md"
+    },
+    {
+      "path": "uninstall/index.html"
+    }
+  ]
+}

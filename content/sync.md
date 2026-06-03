@@ -16,6 +16,18 @@ Sync only copies over book progress if the `TimeSpentReading` of the book on the
 
 > At this time, Koblime does not restore progress or alter the Kobo database in any way. We are looking for beta testers to ensure that we can safely restore sync progress across devices.
 
+## Adding books from Google Drive
+
+In the web app, **Add Book** and **Link** open the Google Drive picker so you can
+choose an `.epub` to link to a device. The picker is served by Google and needs
+your browser to allow Google's sign-in cookie. Chrome and Edge generally work out
+of the box; Safari and Firefox block this by default.
+
+If the picker shows *"Can't access this content"* or *"sign into your Google
+account,"* see [the FAQ](faq.md#google-drive-picker-wont-open) for the per-browser
+cookie steps. Once a book is linked, syncing it to your Kobo does not require any
+cookie changes.
+
 ## Manual Sync
 
 To manually sync Koblime from your Kobo, you will need Telnet or SSH access to the device. Once you have terminal access to the device, run the following to sync your kobo:
