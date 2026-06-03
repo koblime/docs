@@ -1,0 +1,10 @@
+﻿# Welcome
+
+> Thank you for taking some time to try out Koblime. This guide is a work in progress. You can submit a pull request to this documentation if you come across any errors or which to add to it.
+
+- [Welcome](https://docs.kobli.me/readme.md): Welcome
+- [Install](https://docs.kobli.me/install.md): You can install Koblime from your device by going to the Devices tab and clicking the install button.
+- [Sync](https://docs.kobli.me/sync.md): Koblime performs a wirelesses sync of your Kobo database to https://kobli.me each time your device connects to WiFi.
+- [Uninstall](https://docs.kobli.me/uninstall.md): You can uninstall Koblime from your device by going to the Devices tab and checking the Uninstall on sync checkbox. This will uninstall Koblime the next time the device attempts to sync.
+- [FAQ](https://docs.kobli.me/faq.md): Koblime is made up of the following components:
+- [Acknowledgements](https://docs.kobli.me/acknowledgements.md): Koblime would not be possible without the following resources thanks to the amazing Kobo and Open Source Community:
